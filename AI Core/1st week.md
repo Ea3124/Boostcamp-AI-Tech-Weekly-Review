@@ -87,6 +87,8 @@ KPT에서 가장 중요한 부분은 **Try**이다. 이번주 아쉬웠던 점�
 - 모든 강의 수강 완료, 심화과제 제외 과제 1,2,3 수행 완료, 위클리 미션 진행도 7/8
     - 강의 내용 : PyTorch 기초, Tensor 생성과 조작, Tensor 연산 및 심화, 선형 회귀, 이진 분류
 - 피어세션 : 알고리즘 스터디 2회 완료, 강의 리뷰 완료, 위클리 리뷰 및 팀 회고록 작성
+    - 풀은 알고리즘 문제 : [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)
+    - 풀은 알고리즘 문제 : [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)
 
 ### Feeling & Finding & Future action
 - 우선 생각보다 오전과 오후 시간에 집중이 잘 되지 않았다. 익숙한 공간에 있어서 그런지 몸이 쉽게 늘어지는 것 같다. 그러나 나가기에도 애매한 시간대여서 **우선 다음주까지는 더 집중한다는 생각으로 하기**
