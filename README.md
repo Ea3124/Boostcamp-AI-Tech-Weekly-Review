@@ -6,3 +6,5 @@
 ## [2주차 - [9/8 - 9/12]](https://github.com/Ea3124/Boostcamp-AI-Tech-Weekly-Review/blob/main/AI%20Core/2nd%20week.md)
 
 ## [3주차 - [9/15 - 9/19]](https://github.com/Ea3124/Boostcamp-AI-Tech-Weekly-Review/blob/main/AI%20Core/3rd%20week.md)
+
+## [4주차 - [9/22 - 9/26]](https://github.com/Ea3124/Boostcamp-AI-Tech-Weekly-Review/blob/main/AI%20Core/4th%20week.md)
